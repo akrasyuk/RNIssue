@@ -8,7 +8,7 @@ export default class App extends React.Component {
     return (
       <View style={styles.content}>
         <Text style={styles.caption}>Image</Text>
-        <Image style={styles.imageBox} source={images.bjnLogo} />
+            <Image style={styles.imageBox} source={images.img} />
       </View>
     );
   }

@@ -1,5 +1,5 @@
 const images = {
-  bjnLogo: require('./logo blue.png')
+  img: require('./img test.png')
 }
 
 export default images
